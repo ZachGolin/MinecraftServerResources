@@ -36,11 +36,6 @@ hash = "ada74e6d4149631f2b442d2f0061b0179feef576bbf4b5cd28bbcc7de1380b7e"
 metafile = true
 
 [[files]]
-file = "mods/goat-horn-speech-amplifier.pw.toml"
-hash = "27cb8060bb90c0b8bab25fb3d3532f15c5bda452cfe68ef8eb9ce8ec5442f7f2"
-metafile = true
-
-[[files]]
 file = "mods/jade.pw.toml"
 hash = "0ad222ec5adbf0fd620b9ab3297cad73273c97db093aaa28d8f5f779fbfacee1"
 metafile = true
