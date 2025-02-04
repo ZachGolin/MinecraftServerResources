@@ -1,0 +1,13 @@
+name = "Sit!"
+filename = "sit!-1.2.1+1.21.4.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/EsYqsGV4/versions/LmDd9wsK/sit%21-1.2.1%2B1.21.4.jar"
+hash-format = "sha1"
+hash = "a6cce6ed98bfd47fae22dbdced5edf0334322569"
+
+[update]
+[update.modrinth]
+mod-id = "EsYqsGV4"
+version = "LmDd9wsK"

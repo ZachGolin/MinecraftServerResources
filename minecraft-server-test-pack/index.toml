@@ -1,0 +1,96 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "db77df7813f6b21f74065229e3ae8568c02209543efadeb1a4eebd40fb520ea8"
+metafile = true
+
+[[files]]
+file = "mods/armorstandeditor.pw.toml"
+hash = "71a8c7cb6379f0731afbc843aa90a67e6c9bcbd648133f45f3c24ed2bbab97a0"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "2fe7f730ed1e69326a938cca8db3dd4d4452b05cddb856cb50b5478b2ae79fe0"
+metafile = true
+
+[[files]]
+file = "mods/craterlib.pw.toml"
+hash = "ccc598964348e056807ae0e8b24655e645e817af1add21a09b5793d346cc2426"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "0dd9437142e8e24e93dab11f5c4559dd27ded1e1a6a795ce3d87d88402e15505"
+metafile = true
+
+[[files]]
+file = "mods/fastback.pw.toml"
+hash = "99a10b2c1aea1174d4f8eb407707bff5ac3b152657deb5d64d35307148c8f1fd"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "ada74e6d4149631f2b442d2f0061b0179feef576bbf4b5cd28bbcc7de1380b7e"
+metafile = true
+
+[[files]]
+file = "mods/goat-horn-speech-amplifier.pw.toml"
+hash = "27cb8060bb90c0b8bab25fb3d3532f15c5bda452cfe68ef8eb9ce8ec5442f7f2"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "0ad222ec5adbf0fd620b9ab3297cad73273c97db093aaa28d8f5f779fbfacee1"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "ba1f90fb84c3d1ab93c85f24bd8097673f2128f1f50d8184abb979643bd414a2"
+metafile = true
+
+[[files]]
+file = "mods/localized-chat.pw.toml"
+hash = "cbf4dbd51ce8db8e96ad5fbe89cbdb26b5a1a6b00d50897c4a4903b7fc062e9a"
+metafile = true
+
+[[files]]
+file = "mods/maintenancemode.pw.toml"
+hash = "5b0bf2f3d62509f1ba5c3a137f62eedb557769f362496692d92d4bd84a395306"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "563e21fe50f72092b64e05a3f09e0e4276f265fb3a1bde8d09da93e72a37bcc7"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "97608890817d0e6a374dd81bff3ecb094fb989af5581a29cf7019717a5ed16e2"
+metafile = true
+
+[[files]]
+file = "mods/nullscape.pw.toml"
+hash = "ba27bd9b6dac77d7c57a998bd1764172cc9ce6c4356720632733a795d899f4db"
+metafile = true
+
+[[files]]
+file = "mods/reusable-trims.pw.toml"
+hash = "40fa60adc9a26199d7f352c49f58c7be87585dd241ff7c2875be335f75686019"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "ce2bc1974c20510a3ef099c935ad03fbee396cca1241ab673b180c393ccd2163"
+metafile = true
+
+[[files]]
+file = "mods/sit!.pw.toml"
+hash = "03de81aa75d0fd514c341ac1eed71d0e731a7cc21513387f2f2ec4fa286417df"
+metafile = true
+
+[[files]]
+file = "mods/voice-chat-interaction.pw.toml"
+hash = "b74e981f8eb60c868f6714185ed6ceed0d51871bce6bc0541fbda5f17e9c6ec8"
+metafile = true

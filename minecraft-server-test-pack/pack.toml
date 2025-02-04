@@ -1,0 +1,16 @@
+name = "Minecraft Server Test Pack"
+author = "Jeb_Kerm"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c58cff62aead2b40582bc3d98bbce1c1f4d5b96da276639a4cf66d12e2bd6edb"
+
+[versions]
+fabric = "0.16.10"
+minecraft = "1.21.4"
+
+[options]
+acceptable-game-versions = ["1.21.4"]
