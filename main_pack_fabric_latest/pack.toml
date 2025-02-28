@@ -1,0 +1,16 @@
+name = "Main Pack Fabric Latest"
+author = "Jeb_kerm"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e92e2fb14737ac59089e20ce39a753b0909025a188713814b9ac5879366fa65b"
+
+[versions]
+fabric = "0.16.10"
+minecraft = "1.21.4"
+
+[options]
+acceptable-game-versions = ["1.12.4"]
