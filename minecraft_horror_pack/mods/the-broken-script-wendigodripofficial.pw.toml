@@ -1,0 +1,13 @@
+name = "The Broken Script"
+filename = "thebrokenscript-1.9-forge-1.20.1_safe.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Kxepwz65/versions/SkUtO4oe/thebrokenscript-1.9-forge-1.20.1_safe.jar"
+hash-format = "sha512"
+hash = "c3a4a7d1542ab7b704ea3d311518119bd360ba6f84bbe518e5cec69d10b25d66457c1c7469821c4f6d65ac0e1e38b34e46a41536a133a88b0e5550947baeb08f"
+
+[update]
+[update.modrinth]
+mod-id = "Kxepwz65"
+version = "SkUtO4oe"

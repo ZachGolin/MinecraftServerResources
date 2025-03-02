@@ -1,0 +1,13 @@
+name = "Minecraft Horror Pack"
+author = "Jeb_Kerm"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "9ccd315b5c5bccc919755ec11611e6a6047ff401448ed3192bd80f261f5a8dcf"
+
+[versions]
+forge = "47.3.33"
+minecraft = "1.20.1"

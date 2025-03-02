@@ -1,0 +1,71 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "793693a85f3c87d4e899ee0c58deabc53690bf5a70f17343f28fd5063ce8a1e1"
+metafile = true
+
+[[files]]
+file = "mods/embeddium.pw.toml"
+hash = "5ec0c37f3f4ad07a40c10376668bca80334ddb7ad2bab06eb4de8f7aac339c8e"
+metafile = true
+
+[[files]]
+file = "mods/exposure.pw.toml"
+hash = "286018120c36b3df87f01d2ed7b94a8e0538279a38c81e37fc805200fe2dac84"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "902bac905b93271f02bd0951a22bac06a3da24f5c237fcaeb469e14a7679e508"
+metafile = true
+
+[[files]]
+file = "mods/lexiconfig.pw.toml"
+hash = "0c2f445dc77db59e8c2bf464c8ffed8af248ece9edb540dba80d8b31a00a4c23"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "c18dd089c44103b56f8edcbd41a071e41a1fcd46094b2c93df5cc5f07853f18b"
+metafile = true
+
+[[files]]
+file = "mods/radium.pw.toml"
+hash = "bbdd40b650286973d44b1931d4b8c4bcc02b02f2c5583545709347503bd13057"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "5d608562aae7967c72f0711fb3836ce341aed463491d987fcf9e6a15fdeda841"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-radio.pw.toml"
+hash = "d51dd03f1993f332ca1efd1618ba716d13d133cd256a6a1d7c8b4201b33e0b3c"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "a57d19d497cf458f524a95c11a1f31684831e11e5e5b940bf1f88aca204668d4"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "0438dc55a4e381130ee55e3d5517bbb1286ddac14f485239a3f45733f42f67ea"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "22d87bf80a28cce7cbb0a92365d058ae2e77193528b53d318dcecac75d33c587"
+metafile = true
+
+[[files]]
+file = "mods/the-broken-script-wendigodripofficial.pw.toml"
+hash = "c2ebb68a4383333a0b4db2ec83b841509d9e347f4cf5f54777d07d4642d59a38"
+metafile = true
+
+[[files]]
+file = "mods/true-darkness-forge-updated-fork.pw.toml"
+hash = "530e7cf09235590f84335e433bb14bc47265f06ac1d8f27e84a9ac7d63dd10d7"
+metafile = true
