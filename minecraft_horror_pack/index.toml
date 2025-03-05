@@ -21,6 +21,11 @@ hash = "902bac905b93271f02bd0951a22bac06a3da24f5c237fcaeb469e14a7679e508"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "7ebfb737cf7bc520cdfd207892af2d7e399d69f83500042a8860084a2726a32f"
+metafile = true
+
+[[files]]
 file = "mods/lexiconfig.pw.toml"
 hash = "0c2f445dc77db59e8c2bf464c8ffed8af248ece9edb540dba80d8b31a00a4c23"
 metafile = true

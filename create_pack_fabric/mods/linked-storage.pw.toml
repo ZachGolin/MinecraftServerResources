@@ -1,0 +1,13 @@
+name = "Linked Storage"
+filename = "linkedstorage-1.5.2-1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RiJDpVc2/versions/bkshgaKH/linkedstorage-1.5.2-1.20.jar"
+hash-format = "sha512"
+hash = "df7e7edc13e879d6bf1119752d569d8cc27eb38d6a48b3c18a7f568c809ba1ee219d98e1e4d0e0aa50fba531e7193af89eb4fc9f6220b194fb6fae2cebc26915"
+
+[update]
+[update.modrinth]
+mod-id = "RiJDpVc2"
+version = "bkshgaKH"

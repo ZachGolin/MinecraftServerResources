@@ -1,4 +1,4 @@
-name = "Minecraft Horror Pack"
+name = "Create Pack Fabric"
 author = "Jeb_Kerm"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,8 +6,8 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "5121ef752cdbd1ad900dd4cfcb93bb981be3d218b29fba4082859bf45f45dd7f"
+hash = "3c61179e573faec9a7eb2e64626f391c1aee088a7a6f9bbbafce16b6e11bd439"
 
 [versions]
-forge = "47.3.33"
+fabric = "0.16.10"
 minecraft = "1.20.1"
