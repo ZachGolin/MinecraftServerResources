@@ -1,8 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/amethyst-gravity-reattracted.pw.toml"
+hash = "372b7c6e6cd6d2999d3fde38ce72a1cd70baa6900d4830ff5c9a1e03f12d1c87"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "7d44149b8b22e0b19b082f49809edfc1b5f170e5d1d297cd73ae88c0b432c3ab"
+metafile = true
+
+[[files]]
+file = "mods/arsenal.pw.toml"
+hash = "3dfb613d8cb47b4f9090d8eff4d67b94a62ca397a6e2bc27aee8fe96d6d264f7"
 metafile = true
 
 [[files]]
@@ -31,8 +41,23 @@ hash = "2674266f233fb1e453d04642d6f04e8d6e0676a51951b81716a7aa8d5d4b817b"
 metafile = true
 
 [[files]]
+file = "mods/comfortable-campfires.pw.toml"
+hash = "3e5d790034d773c643ec98aed8a5d52101e56d4851c4cf776334e3a032ad5bf2"
+metafile = true
+
+[[files]]
 file = "mods/craterlib.pw.toml"
 hash = "2245beed2b8b7f2be3cb3b50528693fd1a307ba758aa9a80239510c2e26194ab"
+metafile = true
+
+[[files]]
+file = "mods/create-coggle.pw.toml"
+hash = "5718996e966f1bf709a834b686913cd7b043de1f72293d24478c1b3289663afb"
+metafile = true
+
+[[files]]
+file = "mods/create-curios-jetpack.pw.toml"
+hash = "7469476f6992f6d3b976e234146e7358975b74d93136ff20a6baaf45fb4db382"
 metafile = true
 
 [[files]]
@@ -76,6 +101,11 @@ hash = "8697b0c71170d6e9bc4c30726581a63ad0ff9b15dbc810e295169234a6a0849e"
 metafile = true
 
 [[files]]
+file = "mods/enchancement.pw.toml"
+hash = "54ed85b42559773c1d59f774b7d1e17938232b97432b20469ead70d69673b6ab"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "e286c31c1b559e037730992bdc995383f6e783baa7b8c6c625e52c48a509d8b0"
 metafile = true
@@ -96,6 +126,11 @@ hash = "97e7fb0bf5c563366b7c6121fa2decb67597107e5594932c6a098cccc980629e"
 metafile = true
 
 [[files]]
+file = "mods/faithful-mace.pw.toml"
+hash = "3eec11fa505d4472119cdf8fb6109369a1b4c484cba5a6907de885aaea0037d5"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
 hash = "63816a982df44357b787c041f281e3ee3bb86768493e6e043aa38b99d3c2ea57"
 metafile = true
@@ -106,8 +141,18 @@ hash = "86cbfa8adbbb8be527f95aca49b427f892aa780773df141dfd7f4ffd02740bbd"
 metafile = true
 
 [[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "4449401b59481016fa2a66d6e749795129160cb1ab3e7932e15033c6b5815455"
+metafile = true
+
+[[files]]
 file = "mods/goggle-trinket-slot.pw.toml"
 hash = "3d0c54755d5bcd0b8e306bd1ac9d648bef47e72dffa4ff8de20237e29162691e"
+metafile = true
+
+[[files]]
+file = "mods/gravity-api-fork.pw.toml"
+hash = "4744eec2487b3cc307ceaa93d1a1c021d06d3734da513437558701a737797e85"
 metafile = true
 
 [[files]]
@@ -116,8 +161,28 @@ hash = "da53b078e3d222c72a3dc7f065cca1cad9772473a6be401f4e7098c0e7da6456"
 metafile = true
 
 [[files]]
+file = "mods/hex-casting.pw.toml"
+hash = "61e5f0c2fc067877744d9cdbed9704e4da4933a4be893e5ef61174346fb13af6"
+metafile = true
+
+[[files]]
+file = "mods/hexcassettes.pw.toml"
+hash = "39e27b12d6b188df2b249bf84ed8427c62a7d9c9802ab0469304d554f89f43be"
+metafile = true
+
+[[files]]
+file = "mods/hexical.pw.toml"
+hash = "353bc9603d4bfa25ce7e2e15a1a8cf34f6ab18695cdafd8c4e0d351e841ac157"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "cb85864ff2d3936a5ab4f7e7ccf763dbda0153412ba52c95a63b29677a012aaf"
+metafile = true
+
+[[files]]
+file = "mods/infernum-effugium.pw.toml"
+hash = "a7abc895474e1851bcb4957e69d6d9fdef3411b7ee989932e1673e109622f5a6"
 metafile = true
 
 [[files]]
@@ -156,8 +221,18 @@ hash = "be97476a17c343a9e5c2b5ba2616ed77b134777ceb23fa40940abd42acc128c2"
 metafile = true
 
 [[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "ede2f61d6b592f44294fa8790c2f050729c487aa86aba09034f2ef30d45e0e93"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "d7145fd1bd8b4bb6a3b84652a96a68870fb3ab32230f27520bb9362fd17ec39f"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "b7a5102d9c5e8b022ea507d219520130ebfefd0eeddfd74c3627aa6f27335932"
 metafile = true
 
 [[files]]
@@ -166,8 +241,23 @@ hash = "b6685e98fce8f1f45868b9df3dbaa410ec23bb64896c826be596d98b01326116"
 metafile = true
 
 [[files]]
+file = "mods/noisium.pw.toml"
+hash = "e94cfc8b72a467d63c5d7593a433edaf698a3792e0c9b95274751ba6d8435288"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "df4c4fe3aff1792aa7d19d097d5d1bc0c6e958e6e4ee32dbf148ecac62e1274d"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "e7aaef7215f2419177f1b1d3240d2d61d17ca2b2e03127d92941874ad5594d6f"
+metafile = true
+
+[[files]]
+file = "mods/ratatouille.pw.toml"
+hash = "db7c47fac84cfc274fcb3ca5d86c2fa974dff11f81c6d7619d69cab59bf6fc99"
 metafile = true
 
 [[files]]
@@ -178,6 +268,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "3f9e020fb15e1c2ede36d50b40c72d536f6de3f817bd703d26805a747175c8bc"
+metafile = true
+
+[[files]]
+file = "mods/reusable-trims.pw.toml"
+hash = "a54097f6e7b3b6bc73a7e35b69fdf2d43008fbdf4d1a1db861f5d8dcd7c38762"
 metafile = true
 
 [[files]]
@@ -196,6 +291,21 @@ hash = "8b0a4f165bfb20db28433ff27a49a9998fb4fb9b09d4a6bb68bc0e0983b80bec"
 metafile = true
 
 [[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "b52762ecbf8d003dcfece87414708d94db789a01d98cae1530464f2906a958f2"
+metafile = true
+
+[[files]]
+file = "mods/tooltipfix.pw.toml"
+hash = "ee103bf45111c2cd7ea2d9b31087867dd4b0d07a4b7dad7b138a4ae506127b37"
+metafile = true
+
+[[files]]
 file = "mods/trinkets.pw.toml"
 hash = "ffdb79f5bc29f990e5889f5d159a043c7046b8cd8d79f17f54b44d7ccc2b242a"
+metafile = true
+
+[[files]]
+file = "mods/visual-workbench.pw.toml"
+hash = "c28f21e5e16aa98001e982453e1b2b8f99302497c645bca4a02a708cfc16577d"
 metafile = true

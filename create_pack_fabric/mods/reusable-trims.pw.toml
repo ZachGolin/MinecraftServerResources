@@ -1,0 +1,13 @@
+name = "Reusable Armor Trims"
+filename = "ReusableTrims-v1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/NhiUgtLw/versions/LDzv4joP/ReusableTrims-v1.0.0.jar"
+hash-format = "sha512"
+hash = "d1f745ddb0418c4d294cdc1f1f4f95276ec71cd9642ad4a85106cdf0eca6909e6950c72dc9209cbc4b97c0e454ed2561945aaccb6abeee8e23bcb064f9aad52c"
+
+[update]
+[update.modrinth]
+mod-id = "NhiUgtLw"
+version = "LDzv4joP"
