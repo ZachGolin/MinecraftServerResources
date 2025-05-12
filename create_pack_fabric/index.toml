@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/amethyst-gravity-reattracted.pw.toml"
-hash = "372b7c6e6cd6d2999d3fde38ce72a1cd70baa6900d4830ff5c9a1e03f12d1c87"
-metafile = true
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "7d44149b8b22e0b19b082f49809edfc1b5f170e5d1d297cd73ae88c0b432c3ab"
 metafile = true
@@ -31,13 +26,13 @@ hash = "2f57caef93731338be19b1e14065978eb3e14dbfc0c1f9699dfcc2f201e2c23b"
 metafile = true
 
 [[files]]
-file = "mods/cc-tweaked.pw.toml"
-hash = "72b23c18039d65a955bfa111b87af4c0cbce8893e539d644e5a4449f3e473ec9"
+file = "mods/cardinal-components-api.pw.toml"
+hash = "127f0a7311e4ecd77c0b96660e0ff873d78d253fffb68db6101eeb414de38bb1"
 metafile = true
 
 [[files]]
-file = "mods/cccbridge.pw.toml"
-hash = "2674266f233fb1e453d04642d6f04e8d6e0676a51951b81716a7aa8d5d4b817b"
+file = "mods/cloth-config.pw.toml"
+hash = "41a3dc271859b118417946d2fdb2408523563b2f4f49048073672a342fb1aebf"
 metafile = true
 
 [[files]]
@@ -48,11 +43,6 @@ metafile = true
 [[files]]
 file = "mods/craterlib.pw.toml"
 hash = "2245beed2b8b7f2be3cb3b50528693fd1a307ba758aa9a80239510c2e26194ab"
-metafile = true
-
-[[files]]
-file = "mods/create-coggle.pw.toml"
-hash = "5718996e966f1bf709a834b686913cd7b043de1f72293d24478c1b3289663afb"
 metafile = true
 
 [[files]]
@@ -88,11 +78,6 @@ metafile = true
 [[files]]
 file = "mods/deeperdarker.pw.toml"
 hash = "3f352f4d2bd17152dc5d39010fb409c75f84e8ae9d8fd0d5da1e331b60e01999"
-metafile = true
-
-[[files]]
-file = "mods/digital-items-3.pw.toml"
-hash = "abd6e5ab62ea221ab8f5d8d92a13757aa0d922bf35cdf8af2f2ac29deaa28a74"
 metafile = true
 
 [[files]]
@@ -156,11 +141,6 @@ hash = "4744eec2487b3cc307ceaa93d1a1c021d06d3734da513437558701a737797e85"
 metafile = true
 
 [[files]]
-file = "mods/hephaestus.pw.toml"
-hash = "da53b078e3d222c72a3dc7f065cca1cad9772473a6be401f4e7098c0e7da6456"
-metafile = true
-
-[[files]]
 file = "mods/hex-casting.pw.toml"
 hash = "61e5f0c2fc067877744d9cdbed9704e4da4933a4be893e5ef61174346fb13af6"
 metafile = true
@@ -206,11 +186,6 @@ hash = "d7cf7b5f76fdd8f9c63a95c9d82bce7162321232675b53d7b54aebaf537d70e0"
 metafile = true
 
 [[files]]
-file = "mods/linked-storage.pw.toml"
-hash = "7c1ae1d686216a4e424dbc8304f71082fb49fd1607ced2ae2a7dd26d3667363e"
-metafile = true
-
-[[files]]
 file = "mods/lithium.pw.toml"
 hash = "a08a445002542d96a8481654c3f4b5e2d3c064f77b477aeaa3a1d1c3cd396ca8"
 metafile = true
@@ -248,6 +223,16 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "df4c4fe3aff1792aa7d19d097d5d1bc0c6e958e6e4ee32dbf148ecac62e1274d"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "3c2fe6485d980a094a5094263d9d54dd59bd4cfd37439109be561894342a82f8"
+metafile = true
+
+[[files]]
+file = "mods/paucal.pw.toml"
+hash = "49ef3ff0a74c6338f2160c4ee683ae34f745a38c0c87f2d7527e4f88406113fe"
 metafile = true
 
 [[files]]
