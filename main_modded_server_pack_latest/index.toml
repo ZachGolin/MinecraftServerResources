@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "964a56ef500d320801315eb45687e51e9352f03615506469979875d2fed41760"
+hash = "bc645fa9eb07fbdb6f5f6cf745527adb08e9a9e982dc260e4f0e9162dda647d1"
 metafile = true
 
 [[files]]
@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/escalated.pw.toml"
-hash = "87ea98128e3482a772b346128930ba706c11f329770ddbd26ec11e08b0e306a2"
+hash = "b0601228517a05340927d1f74060444837aa5887de74dac35fff2e11899d072b"
 metafile = true
 
 [[files]]
