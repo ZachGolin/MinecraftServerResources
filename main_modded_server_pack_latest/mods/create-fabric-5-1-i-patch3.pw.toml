@@ -1,7 +1,0 @@
-name = "create-fabric-5.1.i_patch3"
-filename = "create-fabric-0.5.1-i-build.1630+mc1.19.2.jar"
-
-[download]
-url = "https://cdn.modrinth.com/data/Xbc0uyRg/versions/XMiAOQvM/create-fabric-0.5.1-i-build.1630%2Bmc1.19.2.jar"
-hash-format = "sha256"
-hash = "56132087fa41d893157d7d6be68cb79c0d2fccfb36968096d4b88dad4437d42f"

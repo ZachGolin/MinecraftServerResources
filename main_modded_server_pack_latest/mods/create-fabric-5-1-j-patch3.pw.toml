@@ -1,0 +1,7 @@
+name = "create-fabric-5.1.j_patch3"
+filename = "create-fabric-0.5.1-j-build.1631+mc1.20.1.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/Xbc0uyRg/versions/7Ub71nPb/create-fabric-0.5.1-j-build.1631%2Bmc1.20.1.jar"
+hash-format = "sha256"
+hash = "33ec1d696c687e95cded0cffa6d581ac80bc9e416ec6040fcd595ce226d70bfb"

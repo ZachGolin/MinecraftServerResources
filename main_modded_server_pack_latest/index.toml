@@ -76,8 +76,8 @@ hash = "46b9b7da92baae101a078a791500eb8d7b54255d882611be17b03085abe3d7b3"
 metafile = true
 
 [[files]]
-file = "mods/create-fabric-5-1-i-patch3.pw.toml"
-hash = "bbb3fa249832322b1c49f8bb73b0ff3f293f55cf3235d5d96b9dba4b6f2f3030"
+file = "mods/create-fabric-5-1-j-patch3.pw.toml"
+hash = "16d3c7d4ca4df6e77a3762a946e4528c88de73a95ad0d36540e6768df5e5f5f1"
 metafile = true
 
 [[files]]
