@@ -51,11 +51,6 @@ hash = "ff674220aeb9395349903de7d40a1af1bbcbc0aa9182c193df50b21225065709"
 metafile = true
 
 [[files]]
-file = "mods/create-coggle.pw.toml"
-hash = "5718996e966f1bf709a834b686913cd7b043de1f72293d24478c1b3289663afb"
-metafile = true
-
-[[files]]
 file = "mods/create-curios-jetpack.pw.toml"
 hash = "cec4725a97279fbfb332d072ff3d4f70e6f893f3c2ad74ad745f211b62e868ec"
 metafile = true
@@ -81,8 +76,8 @@ hash = "46b9b7da92baae101a078a791500eb8d7b54255d882611be17b03085abe3d7b3"
 metafile = true
 
 [[files]]
-file = "mods/create-fabric.pw.toml"
-hash = "5265e90f91a651c018b78641d08442da55c060ce07a020afdf86bb79d12bbe8d"
+file = "mods/create-fabric-5-1-i-patch3.pw.toml"
+hash = "bbb3fa249832322b1c49f8bb73b0ff3f293f55cf3235d5d96b9dba4b6f2f3030"
 metafile = true
 
 [[files]]
@@ -168,6 +163,11 @@ metafile = true
 [[files]]
 file = "mods/hextrogen.pw.toml"
 hash = "ac621c9e11a24673d084bd94ff105500eb5038b1390668a8da21657fd30b3157"
+metafile = true
+
+[[files]]
+file = "mods/hold-my-items.pw.toml"
+hash = "e848d17092a61b91d0198361cc333fb5d3912cdb5bb561f0520f2f87a75db6e6"
 metafile = true
 
 [[files]]
