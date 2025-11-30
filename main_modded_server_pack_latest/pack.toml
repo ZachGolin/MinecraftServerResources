@@ -1,0 +1,13 @@
+name = "Main Modded Server Pack Latest"
+author = "Jeb_Kerm"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d22bb2d6eb87ca19a7bb49509ed28667cf7d0345ddd4bc3ac08878720dca5f3e"
+
+[versions]
+fabric = "0.18.1"
+minecraft = "1.20.1"

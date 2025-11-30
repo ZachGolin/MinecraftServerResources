@@ -1,0 +1,13 @@
+name = "Roundabout: The JoJo Mod"
+filename = "Roundabout-fabric-1.20.1-2.2.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IDI5Ie1o/versions/JBuBsThx/Roundabout-fabric-1.20.1-2.2.6.jar"
+hash-format = "sha512"
+hash = "7ff7ba1186d94c946d30dadac631ee4f0ea219afd2cf6391e9fa3d88f71afce6c70d9c4de8dc48a7f86cf714ebabeed201ecf4296f6dedb053f2bc7e3d1d717b"
+
+[update]
+[update.modrinth]
+mod-id = "IDI5Ie1o"
+version = "JBuBsThx"
