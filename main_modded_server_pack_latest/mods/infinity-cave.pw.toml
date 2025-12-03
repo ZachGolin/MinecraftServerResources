@@ -1,0 +1,13 @@
+name = "Infinity Cave"
+filename = "infinity-cave-0.4-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DEq97NAA/versions/9JfHAyhU/infinity-cave-0.4-1.20.1.jar"
+hash-format = "sha512"
+hash = "c5f1d020587db005c3d121b2806bd5f278a45994bec63f39be462799e8c8e162169db472ddb24d7af00269aac4504e44463272db9f37178d85f7accc4432d207"
+
+[update]
+[update.modrinth]
+mod-id = "DEq97NAA"
+version = "9JfHAyhU"
