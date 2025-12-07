@@ -1,0 +1,7 @@
+name = "valkyrien-skies-old"
+filename = "valkyrienskies-120-2.3.0-beta.10.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/V5ujR2yw/versions/u8rkwXEz/valkyrienskies-120-2.3.0-beta.10.jar"
+hash-format = "sha256"
+hash = "9e17e327e8115e52cb8bc9d5203ae663a4082a34075cabac263dfa1ace0db793"
