@@ -1,5 +1,6 @@
 name = "create-fabric-5.1.j_patch3"
 filename = "create-fabric-0.5.1-j-build.1631+mc1.20.1.jar"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/Xbc0uyRg/versions/7Ub71nPb/create-fabric-0.5.1-j-build.1631%2Bmc1.20.1.jar"

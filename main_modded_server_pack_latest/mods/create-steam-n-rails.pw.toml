@@ -1,5 +1,6 @@
 name = "create-steam-n-rails"
 filename = "Steam_Rails-1.6.9+fabric-mc1.20.1.jar"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/ZzjhlDgM/versions/VFhdqLko/Steam_Rails-1.6.9%2Bfabric-mc1.20.1.jar"

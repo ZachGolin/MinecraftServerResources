@@ -46,6 +46,11 @@ hash = "2f57caef93731338be19b1e14065978eb3e14dbfc0c1f9699dfcc2f201e2c23b"
 metafile = true
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "64a244469b7ce7be7e6ceabedd69d17e573a0b92d6e29c661fc6c490afa965d8"
+metafile = true
+
+[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "0ed502ad7d53ca1936079cb7508b2e085909610ac51337fff2a3ce0fa6dcae28"
 metafile = true
@@ -68,6 +73,11 @@ metafile = true
 [[files]]
 file = "mods/craterlib.pw.toml"
 hash = "ff674220aeb9395349903de7d40a1af1bbcbc0aa9182c193df50b21225065709"
+metafile = true
+
+[[files]]
+file = "mods/create-clockwork.pw.toml"
+hash = "ce13b5e51405cbfd8025a38dcbc707428566f820c3c1c98473507db0f4386007"
 metafile = true
 
 [[files]]
@@ -97,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric-5-1-j-patch3.pw.toml"
-hash = "16d3c7d4ca4df6e77a3762a946e4528c88de73a95ad0d36540e6768df5e5f5f1"
+hash = "143a1f23461d64c2eddd3c493ecf99159ba5fb88744bdcfc4bc3bf8441d1b972"
 metafile = true
 
 [[files]]
@@ -112,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "bc645fa9eb07fbdb6f5f6cf745527adb08e9a9e982dc260e4f0e9162dda647d1"
+hash = "3520554d27d3bc697a9bdb515743241171a1f01fbbf4093f0a85e5385340e9a0"
 metafile = true
 
 [[files]]
@@ -137,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/escalated.pw.toml"
-hash = "b0601228517a05340927d1f74060444837aa5887de74dac35fff2e11899d072b"
+hash = "66aafe5f3151de3f2de0d7aabaecdcc2dfd6f5b59d0ea697002037dcea9e086e"
 metafile = true
 
 [[files]]
@@ -233,6 +243,11 @@ metafile = true
 [[files]]
 file = "mods/inline.pw.toml"
 hash = "77705ea58913cad0baa1964f8ba1a37b2fdf640b955a70f4bc1ad985cdd14a5f"
+metafile = true
+
+[[files]]
+file = "mods/interactive.pw.toml"
+hash = "d35c75ec92d4e1c46d264d41685bf261b5984d81457762bd5f360e4fce251261"
 metafile = true
 
 [[files]]
@@ -408,6 +423,11 @@ metafile = true
 [[files]]
 file = "mods/txnilib.pw.toml"
 hash = "3f12e299c61128e9b68e30f814a8507437afc84e27c678fe7955ced741fc176a"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-skies.pw.toml"
+hash = "220290b6585ca56b581de94012e678625aeacc300663113bf848e1872897cb22"
 metafile = true
 
 [[files]]
