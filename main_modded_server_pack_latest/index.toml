@@ -146,11 +146,6 @@ hash = "a171827ca41197cfe596f6624bdf574cbbc6532642c1f4dfd5a9d84de908e4b1"
 metafile = true
 
 [[files]]
-file = "mods/create_oxidized.pw.toml"
-hash = "a0c0ebf3ab1c147a7196d98ec8eb2afb70454d0cac4ddc556478dd3aa38e8dab"
-metafile = true
-
-[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "c5ea75feae4d340856611f78a29e6f1f0b7e707bfe43847f11d25fac1769dee7"
 metafile = true
