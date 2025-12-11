@@ -16,11 +16,6 @@ hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
 metafile = true
 
 [[files]]
-file = "mods/armorhide.pw.toml"
-hash = "f33da29ad65ee4178827e844b93c72eec79bf22f93798ba439c3516ae8a65121"
-metafile = true
-
-[[files]]
 file = "mods/arsenal.pw.toml"
 hash = "3dfb613d8cb47b4f9090d8eff4d67b94a62ca397a6e2bc27aee8fe96d6d264f7"
 metafile = true
