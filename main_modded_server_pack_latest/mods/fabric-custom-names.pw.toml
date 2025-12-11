@@ -1,0 +1,13 @@
+name = "Fabric Custom Names"
+filename = "customname-0.2.4-1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/saIlazMs/versions/4BUoKfZV/customname-0.2.4-1.20.1.jar"
+hash-format = "sha512"
+hash = "af674c0cce15b235fc5b72708d5617770dd38af6922507bfe09985d5f63a980bcb0e96b651b11aea3ca9ac3b6bed9658e701a37ed276c2b53d5864e275d43a5e"
+
+[update]
+[update.modrinth]
+mod-id = "saIlazMs"
+version = "4BUoKfZV"

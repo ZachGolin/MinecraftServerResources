@@ -16,6 +16,11 @@ hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
 metafile = true
 
 [[files]]
+file = "mods/armorhide.pw.toml"
+hash = "f33da29ad65ee4178827e844b93c72eec79bf22f93798ba439c3516ae8a65121"
+metafile = true
+
+[[files]]
 file = "mods/arsenal.pw.toml"
 hash = "3dfb613d8cb47b4f9090d8eff4d67b94a62ca397a6e2bc27aee8fe96d6d264f7"
 metafile = true
@@ -111,6 +116,11 @@ hash = "143a1f23461d64c2eddd3c493ecf99159ba5fb88744bdcfc4bc3bf8441d1b972"
 metafile = true
 
 [[files]]
+file = "mods/create-few-more-recipes.pw.toml"
+hash = "54b45e4aa08c0b36a490face457abe090243d9190e622817e62be6e45353fb30"
+metafile = true
+
+[[files]]
 file = "mods/create-molten-metals.pw.toml"
 hash = "a148e2a84e91d4cc086911492305fd22dd512dab17fe92bf35c028d7ba6b3cc5"
 metafile = true
@@ -133,6 +143,11 @@ metafile = true
 [[files]]
 file = "mods/create-threaded-trains.pw.toml"
 hash = "a171827ca41197cfe596f6624bdf574cbbc6532642c1f4dfd5a9d84de908e4b1"
+metafile = true
+
+[[files]]
+file = "mods/create_oxidized.pw.toml"
+hash = "efa23ff6062ef28df1983e6af3fe059ddcc514cb6f3dad4392150da548c56720"
 metafile = true
 
 [[files]]
@@ -166,6 +181,11 @@ hash = "2b7949e506ba69c57139127c0ccc6caf5a9ec5ec97788b81288118db3d7c2ad3"
 metafile = true
 
 [[files]]
+file = "mods/fabric-custom-names.pw.toml"
+hash = "c304e2cee42cba047bff6edace22c0929c495052bf9db0ca17abbc1e36d433a7"
+metafile = true
+
+[[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "d7c055f277c1751122d9abc5f09015e629699e04a9383cd0c666b33436293079"
 metafile = true
@@ -176,8 +196,18 @@ hash = "98ebe8a1988553c5d6d0d9b76016c15e90b605083a6e0dd1074eb3b2f78a9ae8"
 metafile = true
 
 [[files]]
+file = "mods/farmers-cutting-regions-unexplored.pw.toml"
+hash = "436183746bfcc03beb0fcfd469f220283352c1c8d084dc4563a95d8ca107fed0"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
 hash = "e09385ac1a1c0900b8fa619290eb0f0539949ebbc59f7604a7699485784ccc85"
+metafile = true
+
+[[files]]
+file = "mods/fastback.pw.toml"
+hash = "5af15318e5df9f6dbaea6ee97d361b9acdb2c2f736cba315b08e10df7b0157db"
 metafile = true
 
 [[files]]
@@ -261,6 +291,11 @@ hash = "99efc9e805ce2888680d3cacb9be65733c6d4a8cfcb77e1976205f758db24346"
 metafile = true
 
 [[files]]
+file = "mods/jade-addons-fabric.pw.toml"
+hash = "b28167f09bbcaca3fee27d748191ed19ce37b9382bb4ae693a20f415f80ed305"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "d5faaf6d7e4be8bdf9b1b200edee175c2704ce13abad9d1951a4d4a45b432d4e"
 metafile = true
@@ -326,6 +361,11 @@ hash = "77b1b462c5717cf66d59f9a1a906b6afb526488a7d16c109082d4a64b1e4967d"
 metafile = true
 
 [[files]]
+file = "mods/new-lodestone-recipe.pw.toml"
+hash = "6e0e0ebc0b2ef8ec339f9d7b658fb7403c00a787d481469e881a407b9b2a9a74"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "89ed99a0798a5e1300434359762c968536593279493f68b321a565fb1343f75c"
 metafile = true
@@ -343,6 +383,11 @@ metafile = true
 [[files]]
 file = "mods/paucal.pw.toml"
 hash = "49ef3ff0a74c6338f2160c4ee683ae34f745a38c0c87f2d7527e4f88406113fe"
+metafile = true
+
+[[files]]
+file = "mods/player-locator-plus.pw.toml"
+hash = "7bb62be8c97ff5bad23337b066a4d1f491226cd840be3cc10489480312dd9eb9"
 metafile = true
 
 [[files]]
@@ -413,6 +458,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "b3ae602303fd717bff2344bfb89aa427e2b4a1ab5fffdcc25183b22102c492df"
+metafile = true
+
+[[files]]
+file = "mods/tick-stasis.pw.toml"
+hash = "08f7763d759fb7778ae0560e8adf66e4721fc6d9e46802f51ecced02716bdef3"
 metafile = true
 
 [[files]]

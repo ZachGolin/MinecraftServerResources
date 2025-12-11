@@ -1,0 +1,13 @@
+name = "Create: Few More Recipes"
+filename = "Create Few More Recipes 0.10.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LL90W5sb/versions/zXdd2p0I/Create%20Few%20More%20Recipes%200.10.1.jar"
+hash-format = "sha512"
+hash = "2bb66863fa34c105b7f105bb509ffa6079967c675e28925fb415662d9e4734559cef8a99218c2b9d7bc12bd3d2855933712dcd465da6e35ad87dd449d3896748"
+
+[update]
+[update.modrinth]
+mod-id = "LL90W5sb"
+version = "zXdd2p0I"
